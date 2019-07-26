@@ -13,19 +13,11 @@ Download repository to your local machine, then run
    
     bundle install
 
-<<<<<<< dev
-#### Run
-
-Run 
-
-    rails server
-=======
 #### Testing
 
 Run:
 
     rails test
->>>>>>> master
 
 #### [Assignment link](https://www.theodinproject.com/courses/ruby-on-rails/lessons/basic-routes-views-and-controllers)  
 
